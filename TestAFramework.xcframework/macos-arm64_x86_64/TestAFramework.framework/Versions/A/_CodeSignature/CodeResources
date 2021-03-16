@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6KYNKVB4FDYQMf7qn2UtYwjHW5lkBjhUCHdO7fobgJI=
+			CIJrv/SmOO0tLe8z6+ugqSRxQE7+5bGOXDDo2OQgYco=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldoaj2hMwWqx6wbexBokshHQQYs5ET8JWe5FaBBtmX8=
+			/YpqM0f6XHKEw/ae1G7CsY3TOMrox0/bKyZE6ArLH4w=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/arm64.swiftdoc</key>
@@ -50,14 +50,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6KYNKVB4FDYQMf7qn2UtYwjHW5lkBjhUCHdO7fobgJI=
+			CIJrv/SmOO0tLe8z6+ugqSRxQE7+5bGOXDDo2OQgYco=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ldoaj2hMwWqx6wbexBokshHQQYs5ET8JWe5FaBBtmX8=
+			/YpqM0f6XHKEw/ae1G7CsY3TOMrox0/bKyZE6ArLH4w=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QmA2et++SeiwRNBjpLvpmKJu8K+Iu9OgxbyH8vTwN1g=
+			EcJ65nO2GnJX3gi010vTGHtVBBZ21/KGavhePkrYWeQ=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c8+QG52jt6QUUEoTCMEqXyYN3pmB2q5ccWI7xCaRUtw=
+			4iv3/aNRNgU6BJbJb83eX7BnxElJvmNa38Ij9phRRic=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -92,14 +92,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QmA2et++SeiwRNBjpLvpmKJu8K+Iu9OgxbyH8vTwN1g=
+			EcJ65nO2GnJX3gi010vTGHtVBBZ21/KGavhePkrYWeQ=
 			</data>
 		</dict>
 		<key>Modules/TestAFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c8+QG52jt6QUUEoTCMEqXyYN3pmB2q5ccWI7xCaRUtw=
+			4iv3/aNRNgU6BJbJb83eX7BnxElJvmNa38Ij9phRRic=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

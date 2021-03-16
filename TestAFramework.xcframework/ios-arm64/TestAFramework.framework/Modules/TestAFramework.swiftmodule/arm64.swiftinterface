@@ -4,5 +4,6 @@
 import Foundation
 import Swift
 public struct TestA {
+  public init()
   public func print() -> Swift.String
 }
