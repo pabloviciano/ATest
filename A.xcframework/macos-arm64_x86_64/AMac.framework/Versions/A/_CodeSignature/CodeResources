@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2JllCJQ63G6hP0dF+hIHvXdPNgnF2TZ2QBz2Y+uQ+78=
+			HaoG/tYnqbmgVAgNZXU7zBKJU7rOy0skm2nibvNQL8I=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			onU5gPEjO2qoG/1LumAoqrJwNq2WV7w46hY3yLh6xUk=
+			Qz0JxJugTbmJypwj1LX6KCFC0HsDpT7TlXUWrA8r6rs=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/arm64.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2JllCJQ63G6hP0dF+hIHvXdPNgnF2TZ2QBz2Y+uQ+78=
+			HaoG/tYnqbmgVAgNZXU7zBKJU7rOy0skm2nibvNQL8I=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			onU5gPEjO2qoG/1LumAoqrJwNq2WV7w46hY3yLh6xUk=
+			Qz0JxJugTbmJypwj1LX6KCFC0HsDpT7TlXUWrA8r6rs=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			egav1yfhRjQRXQcHnkzRIvm6jcaPhcfo8wUCJAScYrg=
+			v57X2XmWRy+UJ+YlVLBmpYtpNjdRnEGVFl+ObDbV6Qw=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VEYjZ6qoHNf6T6qpGP1UudD5KX1rm+LzfysSvsAvkzI=
+			8UnbYr+s2YeDXYWErpf6joSwSF9vGEOeK5v1H8wCKbY=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/x86_64.swiftdoc</key>
@@ -99,14 +99,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			egav1yfhRjQRXQcHnkzRIvm6jcaPhcfo8wUCJAScYrg=
+			v57X2XmWRy+UJ+YlVLBmpYtpNjdRnEGVFl+ObDbV6Qw=
 			</data>
 		</dict>
 		<key>Modules/AMac.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VEYjZ6qoHNf6T6qpGP1UudD5KX1rm+LzfysSvsAvkzI=
+			8UnbYr+s2YeDXYWErpf6joSwSF9vGEOeK5v1H8wCKbY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
